@@ -6,3 +6,16 @@
 
     box-sizing: border-box;
 }
+
+body{
+    font-size: 16px;
+}
+
+.audio div {
+    display: inline-block;
+    padding: 0 1.5em ;
+}
+
+.audio img{
+    cursor: pointer;
+}
